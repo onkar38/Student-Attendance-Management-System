@@ -11,7 +11,7 @@ This PHP attendance system project is primarily concerned with dealing with stud
 **Teacher Login Details**
 
 * Email   : teacher@mail.com
-* Password: (Password on the YouTube video)
+* Password: admin@123
 
 
 #
